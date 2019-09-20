@@ -12,12 +12,11 @@
  * Dessin SVG
 
 ## Schéma de montage
-![Screenshot](https://github.com/ericgaspar/DrawBot/blob/master/Telecran.png" width="900")
+![Screenshot](https://github.com/ericgaspar/DrawBot/blob/master/Telecran.png)
 
 
 ## Output
-
-![Screenshot](<img src=")https://github.com/ericgaspar/DrawBot/blob/master/A.jpg" width="850")
+![Screenshot](https://github.com/ericgaspar/DrawBot/blob/master/A.jpg)
 
 
 ## Amélioration
