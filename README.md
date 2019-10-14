@@ -1,4 +1,4 @@
-# DrawBot
+# DrawPlot
 
 ## Matériel
  * Arduino Uno
