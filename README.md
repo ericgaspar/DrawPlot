@@ -6,7 +6,7 @@
 
 ## Logiciels
  * [Arduino IDE](https://www.arduino.cc/en/Main/Software) avec le sketch StandardFirmata
- * [Processing 3](https://processing.org/download)
+ * [Processing 3](https://processing.org/download) ave c la librairie *Arduino(Firmata)*
  * Dessin SVG
 
 ## Schéma de montage
